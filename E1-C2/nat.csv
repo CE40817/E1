@@ -1,0 +1,2 @@
+timestamp,inside_ip,inside_port,outside_ip,outside_port,protocol
+2025-10-26T10:30:05+00:00,10.1.5.100,60000,203.0.113.10,60000,6

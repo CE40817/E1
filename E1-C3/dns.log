@@ -1,0 +1,830 @@
+2025-10-26T11:00:42+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:00:42+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T11:01:51+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:01:51+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:02:08+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:02:08+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:02:25+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:02:25+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T11:02:28+00:00 10.1.5.121 query news.example A
+2025-10-26T11:02:28+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:02:40+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:02:40+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:02:45+00:00 10.1.5.97 query news.example A
+2025-10-26T11:02:45+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:03:11+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:03:11+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:03:14+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:03:14+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:03:14+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:03:14+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:04:24+00:00 10.1.5.121 query news.example A
+2025-10-26T11:04:24+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T11:04:49+00:00 10.1.5.121 query news.example A
+2025-10-26T11:04:49+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T11:04:57+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:04:57+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:05:17+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:05:17+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T11:05:26+00:00 10.1.5.121 query news.example A
+2025-10-26T11:05:26+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T11:05:39+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:05:39+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:06:07+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:06:07+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:06:20+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:06:20+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T11:06:42+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:06:42+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:06:42+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:06:42+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:07:20+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:07:20+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T11:07:45+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:07:45+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:08:19+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:08:19+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T11:08:24+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:08:24+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T11:08:25+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:08:25+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T11:08:52+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:08:52+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:09:29+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:09:29+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:09:54+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:09:54+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:10:02+00:00 10.1.5.121 query news.example A
+2025-10-26T11:10:02+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:10:27+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:10:27+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:10:55+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:10:55+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:11:03+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:11:03+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:11:53+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:11:53+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:12:04+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:12:04+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:12:40+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:12:40+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:13:10+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:13:10+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:13:10+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:13:10+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T11:13:36+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:13:36+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T11:13:51+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:13:51+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T11:14:22+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:14:22+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:14:25+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:14:25+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T11:15:00+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:15:00+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T11:15:28+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:15:28+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:16:11+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:16:11+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T11:16:31+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:16:31+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:16:39+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:16:39+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:16:43+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:16:43+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T11:16:52+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:16:52+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:16:53+00:00 10.1.5.108 query news.example A
+2025-10-26T11:16:53+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:17:20+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:17:20+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:17:35+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:17:35+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:17:43+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:17:43+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:17:43+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:17:43+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:17:54+00:00 10.1.5.121 query news.example A
+2025-10-26T11:17:54+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:18:08+00:00 10.1.5.108 query news.example A
+2025-10-26T11:18:08+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T11:18:52+00:00 10.1.5.108 query news.example A
+2025-10-26T11:18:52+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T11:19:00+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:19:00+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:19:24+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:19:24+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T11:19:28+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:19:28+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:19:29+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:19:29+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T11:19:54+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:19:54+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T11:20:01+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:20:01+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:21:05+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:21:05+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T11:21:15+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:21:15+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:21:15+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:21:15+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T11:21:29+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:21:29+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:21:36+00:00 10.1.5.108 query news.example A
+2025-10-26T11:21:36+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T11:21:39+00:00 10.1.5.108 query news.example A
+2025-10-26T11:21:39+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:22:18+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:22:18+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:22:21+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:22:21+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T11:22:35+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:22:35+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:22:39+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:22:39+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:22:40+00:00 10.1.5.108 query news.example A
+2025-10-26T11:22:40+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:22:41+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:22:41+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T11:23:30+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:23:30+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:23:36+00:00 10.1.5.121 query news.example A
+2025-10-26T11:23:36+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T11:23:59+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:23:59+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T11:24:15+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:24:15+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:24:43+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:24:43+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T11:24:46+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:24:46+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:25:57+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:25:57+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:25:57+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:25:57+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:26:13+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:26:13+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:27:04+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:27:04+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:27:08+00:00 10.1.5.121 query news.example A
+2025-10-26T11:27:08+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T11:27:43+00:00 10.1.5.97 query news.example A
+2025-10-26T11:27:43+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T11:27:55+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:27:55+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T11:28:20+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:28:20+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:28:20+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:28:20+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:28:33+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:28:33+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T11:28:50+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:28:50+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:29:21+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:29:21+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T11:29:30+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:29:30+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:29:37+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:29:37+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T11:30:16+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:30:16+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:30:46+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:30:46+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T11:30:47+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:30:47+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:30:47+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:30:47+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:31:23+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:31:23+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T11:31:52+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:31:52+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:32:21+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:32:21+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:32:22+00:00 10.1.5.108 query news.example A
+2025-10-26T11:32:22+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T11:32:34+00:00 10.1.5.108 query news.example A
+2025-10-26T11:32:34+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T11:32:40+00:00 10.1.5.97 query news.example A
+2025-10-26T11:32:40+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:32:55+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:32:55+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T11:32:59+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:32:59+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:33:04+00:00 10.1.5.108 query news.example A
+2025-10-26T11:33:04+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T11:33:18+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:33:18+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:33:41+00:00 10.1.5.108 query news.example A
+2025-10-26T11:33:41+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:33:41+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:33:41+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:34:13+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:34:13+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:34:13+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:34:13+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:34:26+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:34:26+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T11:35:10+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:35:10+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T11:35:17+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:35:17+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:35:33+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:35:33+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T11:36:24+00:00 10.1.5.121 query news.example A
+2025-10-26T11:36:24+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T11:36:38+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:36:38+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:37:40+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:37:40+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T11:37:47+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:37:47+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:37:52+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:37:52+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:37:52+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:37:52+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T11:38:33+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:38:33+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T11:38:54+00:00 10.1.5.108 query news.example A
+2025-10-26T11:38:54+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:38:55+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:38:55+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:39:46+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:39:46+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T11:40:15+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:40:15+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:40:39+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:40:39+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:40:50+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:40:50+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T11:41:19+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:41:19+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:42:20+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:42:20+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T11:42:25+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:42:25+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:42:30+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:42:30+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:43:23+00:00 10.1.5.97 query news.example A
+2025-10-26T11:43:23+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:43:32+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:43:32+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:43:36+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:43:36+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:43:38+00:00 10.1.5.97 query news.example A
+2025-10-26T11:43:38+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T11:44:48+00:00 10.1.5.97 query c2.evil-domain.example A
+2025-10-26T11:44:48+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:45:52+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:45:52+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:46:18+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:46:18+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T11:46:39+00:00 10.1.5.121 query cdn.example A
+2025-10-26T11:46:39+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:46:45+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:46:45+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T11:46:54+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:46:54+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:47:04+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:47:04+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:47:13+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:47:13+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:48:07+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:48:07+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:48:21+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:48:21+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T11:48:25+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:48:25+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:48:37+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:48:37+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:49:25+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:49:25+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:49:51+00:00 10.1.5.121 query news.example A
+2025-10-26T11:49:51+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T11:50:41+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:50:41+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:50:41+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:50:41+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:50:47+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:50:47+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T11:51:01+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:51:01+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T11:51:20+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:51:20+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:51:32+00:00 10.1.5.97 query news.example A
+2025-10-26T11:51:32+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:51:32+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:51:32+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T11:52:07+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:52:07+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:52:13+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:52:13+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:52:40+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:52:40+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:52:46+00:00 10.1.5.121 query news.example A
+2025-10-26T11:52:46+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T11:52:54+00:00 10.1.5.121 query news.example A
+2025-10-26T11:52:54+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T11:53:09+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:53:09+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:53:25+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:53:25+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T11:53:59+00:00 10.1.5.108 query news.example A
+2025-10-26T11:53:59+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T11:54:03+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:54:03+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T11:54:12+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:54:12+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T11:54:18+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:54:18+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:54:20+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T11:54:20+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T11:54:34+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:54:34+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:54:35+00:00 10.1.5.97 query news.example A
+2025-10-26T11:54:35+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T11:54:49+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:54:49+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:55:24+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T11:55:24+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T11:55:33+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:55:33+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T11:56:48+00:00 10.1.5.97 query cdn.example A
+2025-10-26T11:56:48+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:56:51+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:56:51+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T11:57:18+00:00 10.1.5.108 query cdn.example A
+2025-10-26T11:57:18+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T11:57:54+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T11:57:54+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T11:58:32+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T11:58:32+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T11:59:12+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T11:59:12+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T11:59:15+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T11:59:15+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T11:59:43+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T11:59:43+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T12:00:03+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T12:00:03+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:00:31+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:00:31+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:00:49+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:00:49+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:01:07+00:00 10.1.5.97 query news.example A
+2025-10-26T12:01:07+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:01:08+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:01:08+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:01:22+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:01:22+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:01:32+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:01:32+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:02:07+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:02:07+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:02:17+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:02:17+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:02:25+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:02:25+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T12:02:37+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:02:37+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:02:38+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:02:38+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:02:52+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:02:52+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T12:02:56+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:02:56+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:03:53+00:00 10.1.5.121 query news.example A
+2025-10-26T12:03:53+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T12:03:55+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:03:55+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:04:25+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:04:25+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:04:47+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:04:47+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T12:05:13+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:05:13+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:06:24+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:06:24+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:06:50+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:06:50+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:06:59+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:06:59+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T12:07:31+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:07:31+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:07:36+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:07:36+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:07:36+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:07:36+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:08:04+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:08:04+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:08:13+00:00 10.1.5.121 query news.example A
+2025-10-26T12:08:13+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:08:13+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:08:13+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T12:08:26+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:08:26+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:08:39+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:08:39+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:08:50+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:08:50+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:09:01+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:09:01+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T12:09:39+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:09:39+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T12:10:11+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:10:11+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:10:41+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:10:41+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T12:10:51+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:10:51+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:11:01+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:11:01+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T12:11:42+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:11:42+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:11:57+00:00 10.1.5.97 query news.example A
+2025-10-26T12:11:57+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T12:13:56+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:13:56+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:14:24+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:14:24+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:14:37+00:00 10.1.5.121 query news.example A
+2025-10-26T12:14:37+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T12:14:39+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:14:39+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T12:14:57+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:14:57+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T12:15:00+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:15:00+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:15:03+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:15:03+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T12:15:06+00:00 10.1.5.108 query news.example A
+2025-10-26T12:15:06+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T12:15:09+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:15:09+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T12:15:25+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T12:15:25+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T12:15:48+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:15:48+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:16:55+00:00 10.1.5.108 query news.example A
+2025-10-26T12:16:55+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T12:17:18+00:00 10.1.5.97 query news.example A
+2025-10-26T12:17:18+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:17:31+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:17:31+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:17:38+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:17:38+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T12:18:17+00:00 10.1.5.97 query news.example A
+2025-10-26T12:18:17+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:18:19+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:18:19+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:18:39+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:18:39+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:18:40+00:00 10.1.5.108 query news.example A
+2025-10-26T12:18:40+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T12:19:11+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:19:11+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:19:11+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:19:11+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:19:19+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:19:19+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T12:19:21+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:19:21+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T12:19:23+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:19:23+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T12:19:56+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T12:19:56+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:20:39+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:20:39+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T12:20:48+00:00 10.1.5.97 query news.example A
+2025-10-26T12:20:48+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T12:20:50+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:20:50+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:21:27+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:21:27+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:22:28+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:22:28+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:23:51+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:23:51+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:24:03+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:24:03+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:24:14+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:24:14+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:24:25+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:24:25+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:24:30+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:24:30+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T12:24:34+00:00 10.1.5.121 query news.example A
+2025-10-26T12:24:34+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:24:42+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:24:42+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:25:27+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:25:27+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:25:36+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:25:36+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:26:06+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:26:06+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:26:11+00:00 10.1.5.108 query news.example A
+2025-10-26T12:26:11+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T12:26:15+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:26:15+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:27:00+00:00 10.1.5.108 query news.example A
+2025-10-26T12:27:00+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:27:46+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:27:46+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:27:46+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:27:46+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:28:00+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:28:00+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T12:28:40+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:28:40+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:28:55+00:00 10.1.5.121 query news.example A
+2025-10-26T12:28:55+00:00 resolver answer news.example A 23.45.67.89
+2025-10-26T12:28:57+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T12:28:57+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T12:29:04+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:29:04+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T12:29:22+00:00 10.1.5.108 query c2.evil-domain.example A
+2025-10-26T12:29:22+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:29:22+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:29:22+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:29:31+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:29:31+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:29:33+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:29:33+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:30:11+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:30:11+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:30:26+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:30:26+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:30:38+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:30:38+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:30:39+00:00 10.1.5.97 query news.example A
+2025-10-26T12:30:39+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T12:31:10+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:31:10+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T12:32:31+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:32:31+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T12:32:42+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:32:42+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:33:33+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T12:33:33+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T12:33:50+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:33:50+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T12:33:52+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:33:52+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T12:33:58+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:33:58+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:34:20+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:34:20+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T12:34:32+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:34:32+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:35:31+00:00 10.1.5.108 query news.example A
+2025-10-26T12:35:31+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T12:36:06+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:36:06+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:36:07+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:36:07+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T12:36:25+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T12:36:25+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T12:36:55+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:36:55+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:37:14+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:37:14+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:37:21+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:37:21+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T12:37:41+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:37:41+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:39:05+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:39:05+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T12:39:09+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:39:09+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T12:39:13+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:39:13+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:39:24+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:39:24+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:39:53+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:39:53+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:41:12+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:41:12+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:41:13+00:00 10.1.5.97 query news.example A
+2025-10-26T12:41:13+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T12:42:41+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:42:41+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:42:45+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:42:45+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:43:13+00:00 10.1.5.97 query news.example A
+2025-10-26T12:43:13+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T12:43:32+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:43:32+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T12:44:03+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:44:03+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:44:39+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:44:39+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:44:39+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:44:39+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:44:51+00:00 10.1.5.121 query news.example A
+2025-10-26T12:44:51+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T12:45:41+00:00 10.1.5.97 query news.example A
+2025-10-26T12:45:41+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T12:46:05+00:00 10.1.5.121 query cdn.example A
+2025-10-26T12:46:05+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T12:46:22+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:46:22+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:47:00+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:47:00+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:47:59+00:00 10.1.5.108 query news.example A
+2025-10-26T12:47:59+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:48:06+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:48:06+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:48:38+00:00 10.1.5.97 query news.example A
+2025-10-26T12:48:38+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T12:48:49+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:48:49+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:48:55+00:00 10.1.5.121 query news.example A
+2025-10-26T12:48:55+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T12:49:15+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:49:15+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:49:43+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:49:43+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:49:43+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:49:43+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:49:50+00:00 10.1.5.121 query news.example A
+2025-10-26T12:49:50+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T12:51:21+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:51:21+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T12:51:25+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:51:25+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:52:09+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:52:09+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T12:52:48+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:52:48+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T12:52:56+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:52:56+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T12:53:00+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T12:53:00+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T12:53:16+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:53:16+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T12:53:36+00:00 10.1.5.108 query news.example A
+2025-10-26T12:53:36+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T12:53:57+00:00 10.1.5.97 query news.example A
+2025-10-26T12:53:57+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T12:55:09+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:55:09+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:55:09+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:55:09+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T12:55:42+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:55:42+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T12:55:48+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:55:48+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T12:56:03+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:56:03+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T12:56:09+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:56:09+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T12:56:46+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T12:56:46+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T12:56:47+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:56:47+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T12:57:23+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T12:57:23+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T12:57:28+00:00 10.1.5.108 query cdn.example A
+2025-10-26T12:57:28+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T12:57:53+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T12:57:53+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T12:58:17+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T12:58:17+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T12:58:50+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T12:58:50+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T12:59:43+00:00 10.1.5.97 query cdn.example A
+2025-10-26T12:59:43+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T13:00:06+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:00:06+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:00:06+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T13:00:06+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T13:00:21+00:00 10.1.5.108 query cdn.example A
+2025-10-26T13:00:21+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T13:00:42+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T13:00:42+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T13:00:48+00:00 10.1.5.108 query news.example A
+2025-10-26T13:00:48+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T13:00:54+00:00 10.1.5.121 query cdn.example A
+2025-10-26T13:00:54+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T13:01:10+00:00 10.1.5.121 query news.example A
+2025-10-26T13:01:10+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T13:01:21+00:00 10.1.5.121 query cdn.example A
+2025-10-26T13:01:21+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T13:01:43+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:01:43+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T13:03:21+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:03:21+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T13:03:22+00:00 10.1.5.108 query cdn.example A
+2025-10-26T13:03:22+00:00 resolver answer cdn.example A 151.101.193.140
+2025-10-26T13:04:03+00:00 10.1.5.121 query news.example A
+2025-10-26T13:04:03+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T13:05:08+00:00 10.1.5.121 query news.example A
+2025-10-26T13:05:08+00:00 resolver answer news.example A 104.18.7.203
+2025-10-26T13:05:14+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:05:14+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:05:14+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T13:05:14+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T13:05:42+00:00 10.1.5.121 query cdn.example A
+2025-10-26T13:05:42+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T13:05:52+00:00 10.1.5.97 query cdn.example A
+2025-10-26T13:05:52+00:00 resolver answer cdn.example A 104.18.7.203
+2025-10-26T13:06:24+00:00 10.1.5.97 query news.example A
+2025-10-26T13:06:24+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T13:06:27+00:00 10.1.5.121 query cdn.example A
+2025-10-26T13:06:27+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T13:06:58+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:06:58+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T13:07:15+00:00 10.1.5.121 query news.example A
+2025-10-26T13:07:15+00:00 resolver answer news.example A 151.101.193.140
+2025-10-26T13:08:26+00:00 10.1.5.97 query news.example A
+2025-10-26T13:08:26+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T13:08:29+00:00 10.1.5.121 query cdn.example A
+2025-10-26T13:08:29+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T13:08:36+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:08:36+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T13:08:42+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T13:08:42+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T13:09:04+00:00 10.1.5.108 query cdn.example A
+2025-10-26T13:09:04+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T13:09:13+00:00 10.1.5.121 query cdn.example A
+2025-10-26T13:09:13+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T13:09:25+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T13:09:25+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T13:09:56+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T13:09:56+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T13:09:56+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T13:09:56+00:00 resolver answer updates.vendor.example A 104.18.5.201
+2025-10-26T13:10:01+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T13:10:01+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T13:10:14+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:10:14+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T13:10:18+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:10:18+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:10:18+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T13:10:18+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T13:11:34+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:11:34+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T13:11:35+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T13:11:35+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T13:11:47+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:11:47+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T13:11:55+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:11:55+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:11:55+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:11:55+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T13:11:55+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T13:11:55+00:00 resolver answer updates.vendor.example A 23.45.67.89
+2025-10-26T13:12:28+00:00 10.1.5.97 query news.example A
+2025-10-26T13:12:28+00:00 resolver answer news.example A 104.18.5.201
+2025-10-26T13:12:31+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T13:12:31+00:00 resolver answer ntp.pool.org A 104.18.6.202
+2025-10-26T13:12:59+00:00 10.1.5.97 query cdn.example A
+2025-10-26T13:12:59+00:00 resolver answer cdn.example A 104.18.6.202
+2025-10-26T13:13:02+00:00 10.1.5.97 query cdn.example A
+2025-10-26T13:13:02+00:00 resolver answer cdn.example A 104.18.5.201
+2025-10-26T13:13:21+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:13:21+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T13:13:33+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:13:33+00:00 resolver answer updates.vendor.example A 151.101.193.140
+2025-10-26T13:13:39+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:13:39+00:00 resolver answer updates.vendor.example A 104.18.6.202
+2025-10-26T13:13:40+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:13:40+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T13:13:42+00:00 10.1.5.121 query news.example A
+2025-10-26T13:13:42+00:00 resolver answer news.example A 172.217.14.228
+2025-10-26T13:14:02+00:00 10.1.5.97 query cdn.example A
+2025-10-26T13:14:02+00:00 resolver answer cdn.example A 23.45.67.89
+2025-10-26T13:14:34+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T13:14:34+00:00 resolver answer ntp.pool.org A 151.101.193.140
+2025-10-26T13:14:48+00:00 10.1.5.97 query ntp.pool.org A
+2025-10-26T13:14:48+00:00 resolver answer ntp.pool.org A 172.217.14.228
+2025-10-26T13:15:26+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:15:26+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:15:26+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:15:26+00:00 resolver answer c2.evil-domain.example A 198.51.100.200
+2025-10-26T13:15:26+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T13:15:26+00:00 resolver answer updates.vendor.example A 172.217.14.228
+2025-10-26T13:15:50+00:00 10.1.5.97 query updates.vendor.example A
+2025-10-26T13:15:50+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T13:16:04+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T13:16:04+00:00 resolver answer ntp.pool.org A 23.45.67.89
+2025-10-26T13:17:07+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:17:07+00:00 resolver answer c2.evil-domain.example A 198.51.100.201
+2025-10-26T13:17:40+00:00 10.1.5.108 query ntp.pool.org A
+2025-10-26T13:17:40+00:00 resolver answer ntp.pool.org A 104.18.5.201
+2025-10-26T13:17:51+00:00 10.1.5.108 query news.example A
+2025-10-26T13:17:51+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T13:17:53+00:00 10.1.5.97 query cdn.example A
+2025-10-26T13:17:53+00:00 resolver answer cdn.example A 172.217.14.228
+2025-10-26T13:17:58+00:00 10.1.5.108 query updates.vendor.example A
+2025-10-26T13:17:58+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T13:18:42+00:00 10.1.5.121 query ntp.pool.org A
+2025-10-26T13:18:42+00:00 resolver answer ntp.pool.org A 104.18.7.203
+2025-10-26T13:18:59+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:18:59+00:00 resolver answer c2.evil-domain.example A 198.51.100.202
+2025-10-26T13:19:17+00:00 10.1.5.97 query news.example A
+2025-10-26T13:19:17+00:00 resolver answer news.example A 104.18.6.202
+2025-10-26T13:20:01+00:00 10.1.5.121 query updates.vendor.example A
+2025-10-26T13:20:01+00:00 resolver answer updates.vendor.example A 104.18.7.203
+2025-10-26T13:20:32+00:00 10.1.5.121 query c2.evil-domain.example A
+2025-10-26T13:20:32+00:00 resolver answer c2.evil-domain.example A 198.51.100.201

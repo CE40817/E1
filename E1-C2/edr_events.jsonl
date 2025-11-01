@@ -1,0 +1,9 @@
+{"timestamp": "2025-10-26T12:29:00+00:00", "event_type": "time_sync", "offset_seconds": -120}
+{"timestamp": "2025-10-26T12:29:00+00:00", "event_type": "process_create", "process_guid": "{EXPL-808}", "pid": 808, "ppid": 4, "process_name": "explorer.exe", "hostname": "WIN-PC-01"}
+{"timestamp": "2025-10-26T12:29:45+00:00", "event_type": "process_create", "process_guid": "{WORD-2310}", "pid": 2310, "ppid": 808, "process_name": "WINWORD.EXE", "hostname": "WIN-PC-01"}
+{"timestamp": "2025-10-26T10:00:00+00:00", "event_type": "process_create", "process_guid": "{POW-BENIGN}", "pid": 5150, "ppid": 808, "process_name": "poẁershell.exe", "hostname": "WIN-PC-01", "cmdline_b64": "cG93ZXJzaGVsbCAtTm9Mb2dv"}
+{"timestamp": "2025-10-26T12:29:50+00:00", "event_type": "process_access", "src_pid": 2310, "src_process_name": "WINWORD.EXE", "target_pid": 780, "target_process_name": "svchost.exe", "hostname": "WIN-PC-01"}
+{"timestamp": "2025-10-26T12:29:51+00:00", "event_type": "create_remote_thread", "src_pid": 2310, "target_pid": 780, "hostname": "WIN-PC-01"}
+{"timestamp": "2025-10-26T12:28:00+00:00", "event_type": "process_create", "process_guid": "{PRXY-4200}", "pid": 4200, "ppid": 808, "process_name": "proxy.exe", "hostname": "WIN-PC-01", "cmdline": "proxy.exe --listen 127.0.0.1:8080"}
+{"timestamp": "2025-10-26T12:30:00+00:00", "event_type": "network_connect", "process_guid": "{SVC-780}", "pid": 780, "process_name": "svchost.exe", "hostname": "WIN-PC-01", "src_ip": "127.0.0.1", "dst_ip": "127.0.0.1", "dst_port": 8080}
+{"timestamp": "2025-10-26T12:30:00+00:00", "event_type": "network_connect", "process_guid": "{CHR-3110}", "pid": 3110, "process_name": "chrome.exe", "hostname": "WIN-PC-01", "src_ip": "10.1.5.100", "src_port": 51235, "dst_ip": "185.17.3.10", "dst_port": 443}

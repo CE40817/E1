@@ -1,0 +1,14 @@
+From: "PayRoll Desk" <alerts@payroIl.support>
+To: alice@example.com
+Subject: Action Required: Payroll update
+Date: Mon, 06 Oct 2025 09:12:37 +0000
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body>
+<p>Dear Employee,</p>
+<p>Your payroll details require confirmation. Login within 24 hours.</p>
+<p><a href="http://updates.payroll-verifier.example/login/index.html?cid=Q2FtcGFpZ25JRD0xMjM&n=nonce-7f">Confirm=
+ Payroll</a></p>
+<p>If the above button does not work, visit https://payroll.support directly.</p>
+</body></html>

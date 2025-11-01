@@ -1,0 +1,5 @@
+203.0.113.44 - - [06/Oct/2025:09:15:10 +0000] "GET /login/index.html?cid=Q2FtcGFpZ25JRD0xMjM&n=nonce-7f HTTP/1.1" 200 512 "-" "Mozilla/5.0"
+198.51.100.50 - - [06/Oct/2025:09:15:12 +0000] "POST /collect HTTP/1.1" 302 46 "-" "Mozilla/5.0" user=bob%40example.com&password=hunter2&cid=123
+198.51.100.51 - - [06/Oct/2025:09:15:13 +0000] "POST /c?t=wrong-token HTTP/1.1" 302 46 "-" "Mozilla/5.0" {"ufsr": "aIice%40example.com", "p7wd": "QU5PVw%3D%3D", "cid": "Q2FtcGFpZ25JRD0xMjM"}
+198.51.100.52 - - [06/Oct/2025:09:15:14 +0000] "POST /c?t=precomputed-client HTTP/1.1" 302 46 "-" "Mozilla/5.0" {"ufsr": "alice%40example.com", "p7wd": "MjYqIR4kO1QwOjokJCse", "cid": "Q2FtcGFpZ25JRD0xMjM"}
+198.51.100.60 - - [06/Oct/2025:09:15:15 +0000] "POST /collect HTTP/1.1" 302 46 "-" "Mozilla/5.0" email=eve%40example.com&p=letmein&cid=123
