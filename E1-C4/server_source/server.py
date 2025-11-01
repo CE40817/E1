@@ -11,7 +11,7 @@ HOST = "0.0.0.0"
 PORT = int(os.getenv("PORT", "2135"))
 
 POW_ZEROS = 4
-EARLY_TTL = 0.5
+EARLY_TTL = 2
 SALT = b"\x13\x37\xC0\xFF\xEE\x42\x21\x09"
 
 STATE = {
